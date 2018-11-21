@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from question.test.question_test import Question
+from question.question import Question
 
 
 def main():
